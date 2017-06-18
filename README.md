@@ -1,5 +1,9 @@
+
+Hello Virtual Reality (FR/EN)
+-----------------------------------------------------------------------------------------
+
 # A week to learn about Virtual reality
-you are learning video game creation with Unity3D.
+You are learning video game creation with Unity3D.
 You want to know more about virtual reality.
 
 This workshop could help you.
