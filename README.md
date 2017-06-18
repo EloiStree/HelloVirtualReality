@@ -21,7 +21,24 @@ https://github.com/JamsCenter/2017_06_15_HelloVirtualReality/wiki/Home/
 https://github.com/JamsCenter/2017_06_15_HelloVirtualReality/wiki/Introduction/
 
 # What is the price or the cost ?
-There is no prices. The workshop is free under a non commercial-licence.
+There is no cost. 
+The workshop is free under a none commercial licence.
+
 If you want to retribuate my work, you can participate to my Patreon: www.patreon.com/2AM
-Or you can contact me to organize a workshop with your team.
+Or you can contact me to organize a workshop with your teams.
+
 Thanks you
+
+# Quel est le prix ou le coût ?
+Il n'y a pas de coût.
+Le workshop est gratuit mais sour une licence non commercial.
+
+Si vosu désirez rétribuer mon travail, vous pouvez participer à mon Patreon: www.patreon.com/2AM
+Oou vous pouvez me contacter pour organiser des ateliers avec vos équipes
+
+Merci à vçus
+
+
+# Contact
+jams.center@gmail.com - +32 (0) 488 757 684 - http://www.jams.center
+
