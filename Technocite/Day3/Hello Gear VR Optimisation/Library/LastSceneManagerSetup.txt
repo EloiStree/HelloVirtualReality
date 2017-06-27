@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Project/Optimisation/1. DisplayFPS/Scene/DisplayFPS.unity
+  isLoaded: 1
+  isActive: 1
