@@ -6,16 +6,11 @@
 Vous êtes en train d'étudier la création de jeux vidéo avec Unity3D   
 Vous voulez en savoir plus sur le sujet de la réalité virtuelle.   
 
-Cet atelier pourrait vous être utile.
-Ma mission est de partager avec vous mes connaissances et ce que j'ai appris ces dernières années.    
+Cet atelier pourrait vous être utile.     
 Mon but principale est de vous faire découvrir un tout nouveau monde  et vous préparez à travailler avec la communauté ;).   
 
-### Quel est le prix ou le coût ?
-Il n'y a pas de coût.   
-Le workshop est gratuit, mais sous une licence non commerciale.   
 
-Si vous désirez rétribuer mon travail, vous pouvez participer à mon Patreon: www.patreon.com/2AM    
-Ou vous pouvez me contacter pour organiser des ateliers avec vos équipes   
+Si vous désirez rétribuer mon travail, vous pouvez participer à mon Patreon: www.patreon.com/jamscenter    
 
 Merci à vous   
 
@@ -38,25 +33,17 @@ You are learning video game creation with Unity3D.
 You want to know more about virtual reality.   
 
 This workshop could help you.   
-My objectif is to share with you my knowledge and what I learn those last years.   
 Ma main goal is to make you discover a whole new world and to prepare you to work with the community ;).   
 
+If you want to remunerate my work, you can contribute to my Patreon: www.patreon.com/jamscenter    
+
+Thanks you   
 
 
 ### Why this atelier ?
 https://github.com/JamsCenter/2017_06_15_HelloVirtualReality/wiki/Home/
 ### Let's start it !
 https://github.com/JamsCenter/2017_06_15_HelloVirtualReality/wiki/Introduction/
-
-
-### What is the price or the cost ?
-There is no cost.    
-The workshop is free under a none commercial licence.   
-   
-If you want to remunerate my work, you can contribute to my Patreon: www.patreon.com/2AM    
-Or you can contact me to organise a workshop with your teams.   
-   
-Thanks you   
 
 
 ### Contact 
