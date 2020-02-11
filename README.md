@@ -22,7 +22,7 @@ https://github.com/JamsCenter/2017_06_15_HelloVirtualReality/wiki/Introduction/
 
 
 ### Contact
-eloi@jams.center - +32 (0) 488 757 684
+streeeloi@gmail.com - +32 (0) 488 757 684
 
 
 
@@ -48,7 +48,7 @@ https://github.com/JamsCenter/2017_06_15_HelloVirtualReality/wiki/Introduction/
 
 
 ### Contact 
-jams.center@gmail.com - +32 (0) 488 757 684   
+streeeloi@gmail.com - +32 (0) 488 757 684   
 
 
 -----------------------------------------------------------------------------------------
